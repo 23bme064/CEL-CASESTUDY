@@ -1,6 +1,6 @@
 # CEL-CASESTUDY
 Case Study: Dominant Eigenvalue Using Power Method
-Name of Student: Shubham Sharma
+Name: Shubham Sharma
 Roll Number: 23BME064
 Course: Computational Engineering Laboratory (20ME331T)
 Semester: VI
